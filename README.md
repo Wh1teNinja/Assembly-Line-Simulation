@@ -3,4 +3,5 @@ The project simulates an assembly line that fills customer orders from inventory
 
 ## How to run it
 In order to run this app you need to add following command argument list:
+
 Stations1.txt Stations2.txt CustomerOrders.txt AssemblyLine.txt
